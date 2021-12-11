@@ -5,6 +5,7 @@ only [], len, iter, and str.
 To instantiate, use
 <variable> = array(<capacity>, <optional fill value>)
 The fill value is None by default.
+random edit here 2
 """
 
 class Array(object):
