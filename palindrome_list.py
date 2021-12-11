@@ -1,5 +1,5 @@
 """
-lab 12, 1 task
+lab 12, 1 task rrr
 """
 
 from arrays import Array, ArrayExpanded
