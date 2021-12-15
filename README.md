@@ -1,5 +1,5 @@
 A program to search for palindroms in a dictionary using stack
 
-fffffff
+RRRRRRRR
 Changed
 readme on branch
