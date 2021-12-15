@@ -1,6 +1,7 @@
 """
 lab 12, 1 task rrr
 random edit 4554 
+irandom edit 2
 """
 
 from arrays import Array, ArrayExpanded
